@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+}
+
+#container{
+  width: 35%;
+  height: 450px;
+  display:grid;
+  grid-template-rows: auto;
+  border: 2px black solid;
+  margin: auto;
+}
+
+#container div{
+border: 1px black solid;
+}
+
+button{
+  margin:auto;
+}
